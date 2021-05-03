@@ -1,0 +1,14 @@
+.App {
+  background-color: blanchedalmond;
+  text-align: center;
+}
+
+.App .ui.medium.image {
+  width: 25%;
+  padding: 5px 3px;
+}
+
+.App .ui.medium.image img {
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,13 @@
+.App {
+  margin: 30px 50px 50px 50px;
+
+}
+
+.header {
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+  border-bottom: double 2px bisque ;
+}
